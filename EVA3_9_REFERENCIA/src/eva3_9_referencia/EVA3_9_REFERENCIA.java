@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package eva3_9_referencia;
+
+/**
+ *
+ * @author JORGE
+ */
+public class EVA3_9_REFERENCIA {
+
+
+    public static void main(String[] args) {
+        //
+        int datos[] = new int[5];
+        datos[0] = 100;
+        datos[1] = 200;
+        datos[2] = 300;
+        datos[3] = 400;
+        datos[4] = 500;
+        System.out.println(datos);//PASO POR REFERENCIA: DIRECCIÓN DE LA MEMORIA
+    }
+    
+}
